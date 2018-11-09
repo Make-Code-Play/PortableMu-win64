@@ -1,0 +1,1 @@
+start Python\pythonw.exe "Mu.launch.pyw" /min
